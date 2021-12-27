@@ -1,0 +1,6 @@
+.darkmode {
+    --background: rgb(32, 34, 37);
+    --foreground: rgb(55, 57, 62);
+    --background-color: rgb(32, 34, 37);
+    --box-shadow--news: 4px 4px 10px rgba(0, 0, 0,0.4);
+} 
